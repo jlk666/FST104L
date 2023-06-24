@@ -1,26 +1,43 @@
-# Welcome to FST 104L!<img src="https://hackmd.io/_uploads/S1LENWEOn.jpg" width="300" height="300">
+# Welcome to FST 104L!<img src="https://hackmd.io/_uploads/S1LENWEOn.jpg" width="256" >
+### Teaching team
+<center>
+<img src="https://hackmd.io/_uploads/SymjZCEdh.png" width="120">
 
-Instructor: Luxin Wang, Ph.D.
-Office: 3210 Robert Mondavi Institute-South
-Email: lxwang@ucdavis.edu
-Office phone number: 530-752-7552
-
-Lectures: Mondays 9:00-9:50 AM (Hart Hall 1150)
-Discussion (scientific papers): Wednesdays 9:00-9:50 AM (Hart Hall 1150)
-Laboratory: RMI North 1127
+Instructor: Luxin Wang, Ph.D.\
+Office: 3210 Robert Mondavi Institute-South\
+Email: lxwang@ucdavis.edu\
+Office phone number: 530-752-7552\
 Office hours: by appointment 
+</center>
 
-Laboratory Manager: Matthew Ford	Email: mwford@ucdavis.edu 
+<center>
+<img src="https://hackmd.io/_uploads/SJMUb04On.png" width="150" >
 
-Teaching assistants and TA office hours:
-Zhuosheng Liu	Email: zsliu@ucdavis.edu  Fridays 10-11AM
-Austin Weber		Email: aeweber@ucdavis.edu Tuesdays 12-1 PM
+Laboratory Manager: Matthew Ford\
+Email: mwford@ucdavis.edu 
+</center>
+
+<center>
+<img src="https://hackmd.io/_uploads/BJ1LXCNd2.png" width="120" > Jay (Zhuosheng)
+<img src="https://hackmd.io/_uploads/SyhBNANO2.png" width="100" > Austin
+<img src="https://hackmd.io/_uploads/H1A-rRNun.png" width="170" > Xiran
+
+
+Teaching assistants and TA office hours:\
+Zhuosheng Liu	Email: zsliu@ucdavis.edu  Fridays 10-11AM\
+Austin Weber		Email: aeweber@ucdavis.edu Tuesdays 12-1 PM\
 Xiran Li		Email: lxrli@ucdavis.edu Thursdays 2-3PM
+</center>
 
-Text required: “Food Microbiology Laboratory Manual”. Attached with this syllabus. 
+## Location and time 
+Lectures: Mondays 9:00-9:50 AM (Hart Hall 1150)\
+Discussion (scientific papers): Wednesdays 9:00-9:50 AM (Hart Hall 1150)\
+Laboratory: RMI North 1127
 
 ## Course description:
 This laboratory course aims to train students in the laboratory methods used in the microbiological analysis of foods. These experimental methods are used for studying microorganisms involved in food processing and food production environment, quality, and safety. 
+Text required: “Food Microbiology Laboratory Manual”. Attached with this syllabus. 
+
 
 ## Grading 
 
